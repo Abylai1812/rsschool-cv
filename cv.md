@@ -22,3 +22,18 @@
 *  Version Control ,Git
 *  Bootstrap
 *  Webpack,npm
+## __Code Examples__
+ ```
+ function multiply(a, b) {
+    return a * b } 
+    multiply(2,3); 
+ ``` 
+## __Projects__ 
+* [Food](https://abylai1812.github.io/food/)
+
+
+Website for the delivery of proper nutrition, created using Html, css, javascript technologies
+* [Employees](https://abylai1812.github.io/employees/)
+
+
+The project was created using the React library. You can add and remove employees, assign them bonuses and mark them as important. Search by name and filter by salary, etc. Technologies used: React, Component, JSX
