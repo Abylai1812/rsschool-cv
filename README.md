@@ -1,3 +1,3 @@
-https://Abylai1812.github.io/rsschool-cv/cv
+MD: https://Abylai1812.github.io/rsschool-cv/cv
 
-https://rsschool-html-cv.netlify.app
+HTML: https://Abylai1812.github.io/rsschool-cv/
